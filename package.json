@@ -1,0 +1,22 @@
+{
+  "name": "nelson-data-structures",
+  "version": "1.0.0",
+  "description": "Just a demo project to learn data structures in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "stack": "STRUCTURE=stack npx babel-node index"
+  },
+  "keywords": [
+    "Data structures",
+    "javascript"
+  ],
+  "author": "Nelson.Lei",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
